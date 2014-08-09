@@ -17,8 +17,8 @@ Try out the Ngram Viewer extension for yourself:
 
 * Navigate to the local folder where this repo lives, and select it.
 
-* Open [a new tab](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine)
+* Open [a new tab](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine).
 
-* Highlight a phrase like "innovator's dilemma" and right click
+* Highlight a phrase like "innovator's dilemma" and right click.
 
 * Click on "Graph the frequency of this n-gram" in the right-click menu. This will open a new tab to display your desired Ngram Viewer graph.
