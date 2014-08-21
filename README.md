@@ -15,7 +15,7 @@ Try out the Ngram Viewer extension for yourself:
 
 * Click "Load unpacked extension…"
 
-* Navigate to the local folder <code>ngram-viewer</code>.
+* In the popup menu, navigate to the local folder <code>ngram-viewer</code> and select it.
 
 * Open [a new tab](http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine).
 
