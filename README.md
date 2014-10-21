@@ -3,7 +3,7 @@ Google Books Ngram Viewer Extension for Chrome
 
 Google Books Ngram Viewer allows you to chart the frequency of a given word or phrase in over 5.2 million books, published between 1500 and 2008 and now digitized by Google.
 
-With this extension for Chrome, you can select a word or phrase on a web page and, in one click, graph its frequency in the Google Books corpus.
+With this extension for Chrome, you can select a word or phrase on a web page and, with one click, graph its frequency in the Google Books corpus.
 
 Try out the Ngram Viewer extension for yourself:
 
